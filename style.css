@@ -1,0 +1,38 @@
+.navbar {
+  min-height: 80px;
+}
+
+.bg-dark {
+  background-color: #161d27 !important;
+}
+
+.bg-darkLight{
+  background-color: #2f3d52!important;
+}
+
+.nav-link {
+  color: white;
+}
+
+section {
+  padding: 100px 0;
+}
+
+.colorBlanco {
+  color: white !important;
+}
+
+.main-photo{
+  border: 10px solid white;
+  border-radius: 2px;
+  box-shadow: -10px 10px 0 0 rgb(126, 119, 81);
+}
+
+.tamañoNav {
+  font-size: 23px!important;
+}
+
+.textCard{
+min-height: 80px;
+max-height: 200px ;
+}
